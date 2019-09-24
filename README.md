@@ -1,3 +1,3 @@
-# spring-boot
-Twitter project with Spring Boot
+# Twitter
+My first pet project with Spring Boot :)
 
