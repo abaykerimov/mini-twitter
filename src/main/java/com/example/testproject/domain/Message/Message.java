@@ -1,6 +1,8 @@
-package com.example.testproject.domain;
+package com.example.testproject.domain.Message;
 
 import javax.persistence.*;
+
+import com.example.testproject.domain.User;
 import org.hibernate.validator.constraints.Length;
 import javax.validation.constraints.NotBlank;
 

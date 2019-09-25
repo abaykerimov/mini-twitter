@@ -1,6 +1,6 @@
 package com.example.testproject.repos;
 
-import com.example.testproject.domain.Message;
+import com.example.testproject.domain.Message.Message;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

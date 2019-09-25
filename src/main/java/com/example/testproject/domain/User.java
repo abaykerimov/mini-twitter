@@ -1,5 +1,6 @@
 package com.example.testproject.domain;
 
+import com.example.testproject.domain.Message.Message;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
