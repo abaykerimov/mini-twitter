@@ -3,3 +3,5 @@
 /.idea
 /src/main/resources/application.properties
 /uploads
+/uploads.zip
+/src/test/resources/application-test.properties
